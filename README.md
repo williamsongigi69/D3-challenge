@@ -1,1 +1,1 @@
-# D3-challenge-data-jounralism
+# D3-challenge-data-journalism
